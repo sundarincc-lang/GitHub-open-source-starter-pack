@@ -20,3 +20,8 @@ This repository is designed to help beginners understand Git, GitHub, and how to
 ```bash
 git clone https://github.com/yourusername/GitHub-open-source-starter-pack.git
 cd GitHub-open-source-starter-pack
+
+
+---
+
+
