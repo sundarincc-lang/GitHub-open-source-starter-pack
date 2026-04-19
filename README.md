@@ -6,6 +6,7 @@ This repository is designed to help beginners understand Git, GitHub, and how to
 ---
 
 ## 📖 Contents
+- **Getting Started**: Introduction and  the process of contributing to open source using GitHub.  
 - **Cheat Sheets**: Quick references for essential Git commands  
 - **Workflow Diagrams**: Visuals explaining Git & GitHub collaboration  
 - **Examples**: Sample repositories and branching strategies  
@@ -14,12 +15,7 @@ This repository is designed to help beginners understand Git, GitHub, and how to
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/GitHub-open-source-starter-pack.git
-cd GitHub-open-source-starter-pack
 
 
 
