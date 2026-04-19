@@ -21,22 +21,5 @@ This repository is designed to help beginners understand Git, GitHub, and how to
 git clone https://github.com/yourusername/GitHub-open-source-starter-pack.git
 cd GitHub-open-source-starter-pack
 
-GitHub-open-source-starter-pack/
-│
-├── README.md                # Main repo overview
-│
-├── cheatsheets/             # Quick reference guides
-│   └── CHEATSHEET.md        # Essential Git commands
-│
-├── diagrams/                # Visual workflow diagrams
-│   └── git-github-workflow.png
-│
-├── examples/                # Sample repos & branching strategies
-│   └── branching-example.md
-│
-├── guides/                  # Contribution and learning guides
-│   └── contribution-guide.md
-│
-└── resources/               # External links & best practices
-    └── resources.md
+
 
